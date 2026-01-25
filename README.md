@@ -60,7 +60,7 @@
 
 - GitHub: https://github.com/ferdi7o 
 - Email: ferdiakif@gmail.com
-
+- [My Blog Web Site](https://ferdi7o.pythonanywhere.com/)
 ---
 
 ⭐️ *Always learning. Always building.*
