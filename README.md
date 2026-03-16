@@ -44,6 +44,33 @@
 
 ---
 
+## 🚀 My Projects
+### 🧛 VampirKoylu – Multiplayer Browser Game
+Live multiplayer browser game where players can join and play together online.
+🔗 Website: https://vampirkoylu.org  
+Features:
+- Real-time multiplayer gameplay
+- Browser based game
+- Interactive player actions
+---
+### 🌐 Komuniga – Community Platform
+A community website that includes multiple social features.
+🔗 Website: https://komuniga.com  
+Features:
+- 📻 Online Radio
+- 💬 Live Chat
+- 🗣 Forum
+- 🛒 Marketplace (buy & sell)
+
+---
+### 🎮 Rock Paper Scissors Android Game
+Android game developed using **Python and Kivy**.
+Features:
+- Score system
+- Sound effects
+- Android APK
+- Multiplayer support (planned)
+
 ### 📈 GitHub Stats
 
 <p align="center">
