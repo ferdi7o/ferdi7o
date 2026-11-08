@@ -63,23 +63,56 @@ Features:
 - 🛒 Marketplace (buy & sell)
 
 ---
-### 🎮 Rock Paper Scissors Android Game
-Android game developed using **Python and Kivy**.
-Features:
-- Score system
-- Sound effects
-- Android APK
-- Multiplayer support (planned)
+### 🦜 Sanal Papağan – Virtual Pet Android Game
 
-### 📈 GitHub Stats
+An interactive virtual pet game developed with **Python and Kivy**, inspired by Tamagotchi-style gameplay. Players can adopt, care for, and interact with a virtual parrot while unlocking new features and mini-games.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdi7o&show_icons=true&theme=tokyonight" />
-</p>
+**Key Features:**
+- 🦜 Interactive virtual parrot with animations and sound effects
+- ❤️ Pet care system: hunger, thirst, happiness, sleep, and entertainment
+- ⭐ Experience points (XP), leveling, and progression system
+- 🎮 Integrated mini-games, including Sudoku/Woodoku and arcade challenges
+- 🪙 In-game currency and reward system
+- 🔊 Voice interaction with selectable text-to-speech effects
+- 🏆 Achievements and progression-based unlocks
+- 📱 Android application packaged using Buildozer
+- 🚀 Published for testing through Google Play Console
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdi7o&layout=compact&theme=tokyonight" />
-</p>
+**Technologies:** Python, Kivy, Buildozer, Android SDK
+
+---
+
+### ⚽ Soccer Flick Arena – Multiplayer Android Game
+
+A competitive football flick game developed with **Python and Kivy**, featuring real-time gameplay, artificial intelligence, and online multiplayer functionality.
+
+The project includes a custom multiplayer backend deployed on a Linux VPS, demonstrating both mobile game development and server-side engineering skills.
+
+**Key Features:**
+- ⚽ Physics-based football gameplay with interactive controls
+- 🤖 Single-player mode against an AI opponent
+- 🌐 Real-time online multiplayer using WebSockets
+- 🎮 Random matchmaking and private game rooms
+- 🏆 Player rankings, leaderboard, and competitive scoring
+- ⭐ XP and player progression system
+- 🌍 Multilingual user interface supporting 7 languages
+- 👤 Customizable player profiles and usernames
+- 🔊 Sound effects, animations, and modern game interface
+- 📱 Android APK/AAB builds with Buildozer
+- ☁️ Multiplayer backend hosted on an Ubuntu VPS
+
+**Technologies:** Python, Kivy, WebSockets, FastAPI, Redis, REST API, Ubuntu Linux, Nginx, Buildozer, Android SDK
+
+---
+
+### 💻 Development Skills Demonstrated
+
+- **Mobile Development:** Android game development using Python and Kivy
+- **Backend Development:** Real-time multiplayer systems, WebSockets, and REST APIs
+- **Game Development:** Game physics, AI opponents, animations, and progression systems
+- **DevOps:** Linux VPS deployment, Nginx, Redis, and server configuration
+- **Testing:** Automated testing, debugging, and Android device testing
+- **Version Control:** Git and GitHub
 
 ---
 
